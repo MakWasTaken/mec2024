@@ -12,3 +12,5 @@ Features and functionality: (the goal is boosting productivity, increasing effic
 - **Scan health card to retrieve existing data about medical history Qr code / barcode
 - **Adding a map to find the closest health care facility to choose (filter for distance, type of medical appointment, help with the appointment process)
 
+  ** means possible, but not implemented for sure (unsure if feasible given limited time and knowledge)
+
